@@ -1,0 +1,13 @@
+path: C:/Users/chand/OneDrive/Desktop/fdd/dataset
+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 5
+names: 
+  0: Hole
+  1: Knot
+  2: broken_stitching
+  3: defect
+  4: skipped_stitching
