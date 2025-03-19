@@ -1,8 +1,8 @@
-path: /content/dataset
+path: /content/Fabric-defect-detection
 
-train: train/images
-val: valid/images
-test: test/images
+train: /content/Fabric-defect-detection/dataset/train/images
+val: /content/Fabric-defect-detection/dataset/train/images
+test: /content/Fabric-defect-detection/dataset/test/images
 
 nc: 5
 names: 
